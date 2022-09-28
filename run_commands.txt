@@ -1,0 +1,8 @@
+npx hardhat compile // to compile smart contracts 
+npx hardhat test // test the smart contracts
+npx hardhat node // create a nodes or local block chain 
+npx hardhat run //  run the smart contracts
+hre = hardhat runtime environment
+npx = node package execute
+
+
